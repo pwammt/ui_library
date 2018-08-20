@@ -1,9 +1,0 @@
-.downloadBanner{ background-image: linear-gradient(81deg, #27d898, #219393); color:#fff;}
-.downloadBanner a{color:#fff;}
-.downloadBannerTop{padding:6px 10px;justify-content: center; align-items:center;display:flex;  }
-.downloadBannerBottom{padding:16px 20px;position: relative; box-shadow: 0 1px 7px 0 rgba(0, 0, 0, 0.2);border-radius:6px;}
-.downloadBannerBottom .heading{width:65%; font-size:20px; line-height: 22px;margin-bottom:15px;}
-.downloadBannerBottom .bannerText{letter-spacing: 0.3px;font-size:16px; line-height: 19px;}
-.downloadBannerBottom .bannerImg{position: absolute;right:5px; top:5px;}
-.iconWhiteArrowSmall{background-position: -25px -66px;width:13px; height:10px;}
-.downloadBannerBottom .iconWhiteArrowSmall{margin-left:5px;margin-top:4px;}
