@@ -1,0 +1,15 @@
+
+.recentSearchInfo{ width:calc(100% - 30px); border-radius: 18px;  background-color: #ffffff;  box-shadow: 0 1px 4px 0 rgba(0, 0, 0, 0.2); padding: 4px 8px;}
+.recentFlightIcon{ width:17px; height: 17px; background-position: -2px -130px;}
+.recentHotelIcon{width:17px; height: 17px; background-position: -108px -130px;}
+.recentSearchDate{ width:90px;}
+.recentSearchCity{ width:calc(100% - 120px); white-space: nowrap;  overflow: hidden;  text-overflow: ellipsis;}
+
+
+
+/*loader changes*/
+
+.interstitial .recentSearchInfo{box-shadow: none;}
+.interstitial .recentImgLoader{height:17px; width:17px; border-radius:50%; background:#e7e7e7;}
+
+/*/loader changes*/

@@ -1,0 +1,19 @@
+.DayPicker-NavBar{ display: none;}
+.DayPicker-Months{ position: fixed; width:calc(100%); height: calc(100vh - 105px); top:105px; left:0; overflow-y: auto; overflow-x:hidden; padding: 20px;}
+.RangeExample{ display: block;}
+.RangeExample .dayPickerHeader{ border-bottom: solid 2px #e7e7e7; padding-top: 30px;}
+.dayPickerHeader button.link{ position: absolute; top:20px; right:16px; background: none; outline: none; color:#000; border: none; font-weight: 600;}
+.dateFiled{ flex:1; padding-left:16px; margin-bottom: -2px; position:relative;}
+.dateFiled.active{ border-bottom: solid 3px #008cff;}
+.DayPicker-Day--today{ color:#000;}
+.DayPicker-Month{ width:100%; margin: 0 0 16px 0!important;}
+
+.DayPicker-Day{ height: 44px;}
+.DayPicker-Day--selected:not(.DayPicker-Day--disabled):not(.DayPicker-Day--outside) {  border-radius: 0 !important; background-color: #eaf5ff; color:#000;}
+.DayPicker-Day--selected:not(.DayPicker-Day--disabled):not(.DayPicker-Day--outside):hover {  background-color: #eaf5ff;}
+.DayPicker-Day--start.DayPicker-Day--selected:not(.DayPicker-Day--disabled):not(.DayPicker-Day--outside) {  background-color: #008cff; color:#fff; border-radius: 4px !important;}
+.DayPicker-Day--end.DayPicker-Day--selected:not(.DayPicker-Day--disabled):not(.DayPicker-Day--outside) {  background-color: #008cff; color:#fff; border-radius: 4px !important;}
+/*added */
+.dateFiled .iconCross{position:absolute;right:15px; top:1px; }
+.DayPicker-Day--disabled .dayPrice{opacity:0;}
+/*/added */

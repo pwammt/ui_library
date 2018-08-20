@@ -1,0 +1,21 @@
+
+
+.userMobile{ border-bottom:solid 1px #e7e7e7;font-size:16px; padding-bottom:4px;margin-bottom:39px;}
+.userMobile input{outline:none;width:calc(100% - 40px);border:none; }
+.sendOtpBtn{width:125px;padding:12px 0px 13px;display:inline-block;border-radius:45px;font-size:16px;box-shadow: 0 2px 12px 0 rgba(0, 0, 0, 0.2)}
+.otpPage .tncText{line-height: 16px; font-size: 12px; bottom:10px;margin-top:50px;}
+
+.newUserInput input{border:none;border-bottom:1px solid #b7b7b7;width:45px;margin-right:18px;outline: none;font-size: 20px; text-align:center;border-radius:0px;}
+.newUserInput input:last-child{margin-right:0px;}
+.verifyBtn{width:125px;padding:12px 0px 13px;display:inline-block;border-radius:45px;font-size:16px;box-shadow: 0 2px 12px 0 rgba(0, 0, 0, 0.2);
+}
+.fixedBottom{position:fixed; width:calc(100% - 40px); left:20px;bottom:20px;}
+
+.verifiedPopup{top:0px; left:0px;position: fixed;background:#fff;width:100%; height: 100%;z-index: 1;}
+.verifiedPopup .primaryBtn{position:fixed; width:calc(100% - 20px); left:10px;bottom:10px;}
+.verifyImgSection{height:calc(100vh - 200px);}
+.verifyImgSection img{width:191px;height:auto; }
+.otpPage .iconCross{position:absolute;right:10px; top:10px;}
+.otpPage{height:-webkit-calc(100vh - 50px);height:calc(100vh - 50px);}
+
+.verifyLoader{top:0px; left:0px;position: fixed;background:#fff;width:100%; height: 100%;z-index: 1;}

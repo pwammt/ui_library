@@ -1,0 +1,9 @@
+.myBizPopupContainer{position:fixed;background:rgba(0,0,0,0.5);top:0px;width:100%;height:100%; z-index: 5;width:100%;}
+.myBizPopup{background:#fff;position: absolute;bottom:0px;height:65%;color:#000;font-size:14px; line-height: 18px;}
+.myBizPopup .heading{font-size:18px; line-height: 22px;}
+.iconMyBiz{background-position: -5px -361px;width: 63px;height: 32px;}
+.myBizPopup .downloadBtn{padding:0px 19px;}
+.myBizPopup .dismissBtn{margin-top:15px;}
+.myBizPopup .btnSection{position:absolute;left:20px; bottom:30px; width:calc(100% - 40px);}
+.myBizPopupContainer .outsideLayer{height:35%; position: absolute;bottom:0%;background:transparent;width:100%;top:0%;  }
+  

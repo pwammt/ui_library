@@ -1,0 +1,2 @@
+.pageErrorWrapper{ width:258px;margin:auto;text-align: center;height: calc(100vh - 100px);}
+.pageErrorWrapper .backBtn{position: fixed;bottom:10px;width:calc(100% - 20px); left:10px;}
